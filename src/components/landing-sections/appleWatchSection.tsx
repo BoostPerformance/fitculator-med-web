@@ -20,7 +20,7 @@ export default function AppleWatchSection() {
       />
     <Image
       className="w-[332px] h-[514px] sm:w-[250px] sm:h-[386px]"
-      src="/images/Frame.png"
+      src="/images/screen_main.svg"
       alt="smart-watch"
       width={332}
       height={514}
